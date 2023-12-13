@@ -1,0 +1,60 @@
+h2 {
+  color: white;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+/*Editing thr placement of images*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+/*Change font and colour of the text*/
+.Who {
+  font-size: large;
+  color: white;
+}
+
+.why {
+  font-size: medium;
+  color: white;
+}
+
+.what {
+  font-size: small;
+  color: white;
+}
+
+#my-heading {
+  color: white;
+}
+
+.Movies{
+  color: white
+}
+/*design button*/
+button {
+  background-color: #1c87c9;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}/*# sourceMappingURL=index.css.map */
+
+/*Here we make the drop down menu invisible at when not clicked on*/
+.mydropDown{
+  display: none;
+}
+
+.mydropUp{
+  display:show;
+}
